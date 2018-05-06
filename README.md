@@ -1,2 +1,2 @@
-# my-first-own-cryptocurrency
-Trial of my first own cryptocurrency
+# My first Smart Contract on ethereum blockchain
+Trial of creating my first own cryptocurrency
