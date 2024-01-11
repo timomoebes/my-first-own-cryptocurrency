@@ -1,2 +1,2 @@
-# My first Smart Contract on ethereum blockchain
-Trial of creating my first own cryptocurrency
+# My first smart contract on the ethereum blockchain!
+Creating my first own cryptocurrency. You can do it too.
